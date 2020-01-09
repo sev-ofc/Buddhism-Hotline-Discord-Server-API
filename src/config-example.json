@@ -1,0 +1,9 @@
+{
+"port": "PORT",
+"currentURL": "SERVER URL",
+"apiRateLimit": "AMOUNT OF REQ'S PER SECOND",
+"apiKeys": ["less secure keys"],
+"allAccessKeys": ["secure keys go here"],
+"botToken": "discord bot token to connect to",
+"guildID": "guild id"
+}

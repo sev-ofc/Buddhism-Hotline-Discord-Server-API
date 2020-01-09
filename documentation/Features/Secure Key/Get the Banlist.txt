@@ -1,0 +1,10 @@
+Route: bhApi/getBans
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE"
+
+}

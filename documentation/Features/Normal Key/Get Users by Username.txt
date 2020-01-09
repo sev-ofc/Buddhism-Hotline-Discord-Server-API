@@ -1,0 +1,12 @@
+Route: bhApi/getUsersByName
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE",
+"user": "USERNAME TO CHECK"
+
+
+}

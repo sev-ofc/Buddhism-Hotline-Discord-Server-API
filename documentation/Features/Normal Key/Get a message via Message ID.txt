@@ -1,0 +1,11 @@
+Route: bhApi/getMessage
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE",
+"messageID": "MESSAGE ID GOES HERE"
+
+}

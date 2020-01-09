@@ -1,0 +1,12 @@
+Route: bhApi/sendMessageToChannel
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE",
+"channelID": "ID OF THE CHANNEL TO SEND THE MESSAGE TO",
+"message": "THE MESSAGE"
+
+}

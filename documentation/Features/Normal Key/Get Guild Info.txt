@@ -1,0 +1,10 @@
+Route: bhApi/getGuildInfo
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE"
+
+}

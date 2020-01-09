@@ -1,0 +1,27 @@
+Buddhism Hotline API by SeverePain Documentation: 
+
+
+METHOD: POST
+
+
+Features:
+
+- Remote Send Message [Private Key]
+- Remote Get Users by name/tag/user id
+- Remote get Message by ID
+- Fetch the server banlist [Private Key]
+- Fetch the staff team
+- Fetch information about the guild
+- Fetch the rules
+- Remotely Ban a User by ID [Private Key]
+
+
+Path: URL/{route}
+
+
+
+
+Current URL: 164.68.126.145:2408
+
+
+

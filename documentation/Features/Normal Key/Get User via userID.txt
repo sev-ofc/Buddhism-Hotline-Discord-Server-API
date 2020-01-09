@@ -1,0 +1,12 @@
+Route: bhApi/getUser
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE",
+"user": "USER ID"
+
+
+}

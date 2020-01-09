@@ -1,0 +1,10 @@
+Route: bhApi/getStaff
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE"
+
+}

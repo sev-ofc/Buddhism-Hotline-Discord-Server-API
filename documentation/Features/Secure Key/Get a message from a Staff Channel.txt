@@ -1,0 +1,11 @@
+Route: bhApi/getStaffMessage
+
+METHOD: POST
+
+
+let postObj = {
+
+"apikey": "API KEY GOES HERE",
+"messageID": "ID OF THE MESSAGE"
+
+}
